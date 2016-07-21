@@ -1,0 +1,8 @@
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\bin\Debug\Task8.exe.config
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\bin\Debug\Task8.exe
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\bin\Debug\Task8.pdb
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\obj\Debug\Task8.exe
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\obj\Debug\Task8.pdb
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\obj\Debug\Task8.Data.resources
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task8\Task8\obj\Debug\Task8.csproj.GenerateResource.Cache
